@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/robo_friends3_andrie/static/css/main.12817575.chunk.css",
-    "main.js": "/robo_friends3_andrie/static/js/main.06f2edb5.chunk.js",
-    "main.js.map": "/robo_friends3_andrie/static/js/main.06f2edb5.chunk.js.map",
+    "main.js": "/robo_friends3_andrie/static/js/main.c0ddcc63.chunk.js",
+    "main.js.map": "/robo_friends3_andrie/static/js/main.c0ddcc63.chunk.js.map",
     "runtime-main.js": "/robo_friends3_andrie/static/js/runtime-main.8c8ad5f9.js",
     "runtime-main.js.map": "/robo_friends3_andrie/static/js/runtime-main.8c8ad5f9.js.map",
-    "static/css/2.1e00258c.chunk.css": "/robo_friends3_andrie/static/css/2.1e00258c.chunk.css",
-    "static/js/2.46d70e94.chunk.js": "/robo_friends3_andrie/static/js/2.46d70e94.chunk.js",
-    "static/js/2.46d70e94.chunk.js.map": "/robo_friends3_andrie/static/js/2.46d70e94.chunk.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/robo_friends3_andrie/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.6941c72e.chunk.js": "/robo_friends3_andrie/static/js/2.6941c72e.chunk.js",
+    "static/js/2.6941c72e.chunk.js.map": "/robo_friends3_andrie/static/js/2.6941c72e.chunk.js.map",
     "index.html": "/robo_friends3_andrie/index.html",
-    "precache-manifest.4e6cc8badc862b739966e06d3d68078c.js": "/robo_friends3_andrie/precache-manifest.4e6cc8badc862b739966e06d3d68078c.js",
+    "precache-manifest.17e3d1a68f1af8bfc2dddb2e57da1e07.js": "/robo_friends3_andrie/precache-manifest.17e3d1a68f1af8bfc2dddb2e57da1e07.js",
     "service-worker.js": "/robo_friends3_andrie/service-worker.js",
-    "static/css/2.1e00258c.chunk.css.map": "/robo_friends3_andrie/static/css/2.1e00258c.chunk.css.map",
+    "static/css/2.eb45ad44.chunk.css.map": "/robo_friends3_andrie/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.12817575.chunk.css.map": "/robo_friends3_andrie/static/css/main.12817575.chunk.css.map",
-    "static/js/2.46d70e94.chunk.js.LICENSE": "/robo_friends3_andrie/static/js/2.46d70e94.chunk.js.LICENSE",
+    "static/js/2.6941c72e.chunk.js.LICENSE": "/robo_friends3_andrie/static/js/2.6941c72e.chunk.js.LICENSE",
     "static/media/App.css": "/robo_friends3_andrie/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.8c8ad5f9.js",
-    "static/css/2.1e00258c.chunk.css",
-    "static/js/2.46d70e94.chunk.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.6941c72e.chunk.js",
     "static/css/main.12817575.chunk.css",
-    "static/js/main.06f2edb5.chunk.js"
+    "static/js/main.c0ddcc63.chunk.js"
   ]
 }
